@@ -96,7 +96,7 @@ If your screenshot is stored in an `assets` folder, update the image path like t
 Or, upload the screenshot to an online hosting service and use the URL:  
 
 ```md
-![AuthGuard Screenshot]([https://your-image-url.com/screenshot.png](https://res.cloudinary.com/dls2tnwrx/image/upload/v1739529674/Screenshot_2025-02-14_160814_fhaaei.png))
+![AuthGuard Screenshot](https://your-image-url.com/screenshot.png](https://res.cloudinary.com/dls2tnwrx/image/upload/v1739529674/Screenshot_2025-02-14_160814_fhaaei.png)
 ```
 
 ---
