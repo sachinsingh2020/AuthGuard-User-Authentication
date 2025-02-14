@@ -1,4 +1,10 @@
+Here's the **final README.md** with the screenshot included at the start:  
+
+---
+
 # 🔐 AuthGuard - User Authentication Full Stack Application  
+
+![AuthGuard Screenshot](./screenshot.png)  
 
 A **MERN stack** authentication system with secure login, registration, password hashing, JWT-based authentication, and user role management. The frontend is fully **responsive** and designed for a seamless user experience.  
 
@@ -21,6 +27,7 @@ A **MERN stack** authentication system with secure login, registration, password
 /AuthGuard
 │── /AuthGuard-frontend   # React Frontend
 │── /AuthGuard-Backend    # Node.js Backend
+│── /assets               # (Optional) Store screenshots/images
 ```
 
 ---
@@ -77,3 +84,33 @@ After running both frontend and backend, visit:
 - **Other:** REST API, User Roles, Secure Authentication  
 
 ---
+
+## 📷 Screenshot  
+
+If your screenshot is stored in an `assets` folder, update the image path like this:  
+
+```md
+![AuthGuard Screenshot](./assets/screenshot.png)
+```
+
+Or, upload the screenshot to an online hosting service and use the URL:  
+
+```md
+![AuthGuard Screenshot](https://your-image-url.com/screenshot.png)
+```
+
+---
+
+## 🌟 Contributing  
+
+Feel free to fork the repository, create a new branch, and submit a pull request.  
+
+---
+
+## 📜 License  
+
+This project is **open-source** and available under the **MIT License**.  
+
+---
+
+Let me know if you need any further modifications! 🚀
