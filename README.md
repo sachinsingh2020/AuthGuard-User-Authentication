@@ -6,6 +6,15 @@ A **MERN stack** authentication system with secure login, registration, password
 
 ---
 
+## 📌 Technologies Used  
+
+- **Frontend:** React.js, Redux, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Authentication:** JWT (JSON Web Token), bcrypt for password hashing  
+- **Other:** REST API, User Roles, Secure Authentication  
+
+---
+
 ## 🚀 Features  
 
 ✅ **User Registration & Login** – Secure sign-up and sign-in.  
@@ -71,14 +80,7 @@ After running both frontend and backend, visit:
 
 ---
 
-## 📌 Technologies Used  
 
-- **Frontend:** React.js, Redux, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Authentication:** JWT (JSON Web Token), bcrypt for password hashing  
-- **Other:** REST API, User Roles, Secure Authentication  
-
----
 
 ## 🌟 Contributing  
 
