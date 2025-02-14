@@ -80,12 +80,6 @@ After running both frontend and backend, visit:
 
 ---
 
-## 📷 Screenshot  
-
-![AuthGuard Screenshot](https://res.cloudinary.com/dls2tnwrx/image/upload/v1739529674/Screenshot_2025-02-14_160814_fhaaei.png)  
-
----
-
 ## 🌟 Contributing  
 
 Feel free to fork the repository, create a new branch, and submit a pull request.  
